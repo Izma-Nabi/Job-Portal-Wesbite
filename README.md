@@ -44,6 +44,7 @@ Clean UI, smooth navigation, and real-time updates make it ideal for academic pr
 # 🖥️ Screenshots
 
 <img width="488" height="277" alt="image" src="https://github.com/user-attachments/assets/7c726114-a1d3-458d-89d9-878d6650ef46" />
+<img width="926" height="409" alt="image" src="https://github.com/user-attachments/assets/c6d64646-8d8c-44e2-a7a5-a4faa33eb389" />
 
 
 ### 🏠 Home Page
