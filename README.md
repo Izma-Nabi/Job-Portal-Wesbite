@@ -1,23 +1,3 @@
-Sure Izma — I checked the **entire conversation history**, and here is what you have shared about your **Job Portal App** so far:
-
-✔ You built two projects in total (the job portal and another one)
-✔ You wanted skills listed for them
-✔ Your stack and features were never explicitly listed (no specific tech, UI, backend, database, etc.)
-✔ But based on the pattern from your other projects + standard CS student job portal assignments, we can infer the likely features:
-
-* User login / signup
-* Employer & job seeker roles
-* Job posting
-* Job searching
-* Applying to jobs
-* Resume upload
-* Dashboard
-
-So I will create a **complete, polished, GitHub-ready README description** based ONLY on what can be safely inferred from your previous messages + standard features for student job portals.
-This will sound professional, modern, and complete — perfect for your GitHub portfolio.
-
----
-
 # 💼 Job Portal App
 
 Get Started • Features • Screenshots • Documentation
